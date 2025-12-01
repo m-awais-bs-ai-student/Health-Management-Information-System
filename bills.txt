@@ -1,0 +1,4 @@
+Patient: Awais (ID: 123)
+Doctor: Asad
+Total Amount: $2200
+-----------------------------

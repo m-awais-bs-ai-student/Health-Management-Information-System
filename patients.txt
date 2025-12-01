@@ -1,0 +1,10 @@
+Name: wais
+ID: 123
+Gender: male
+Symptoms: fever
+-----------------------------
+Name: Awais
+ID: 123
+Gender: male
+Symptoms: fever
+-----------------------------
