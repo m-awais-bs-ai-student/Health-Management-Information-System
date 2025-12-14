@@ -1,3 +1,6 @@
+[![Language](https://img.shields.io/badge/language-C++-%2300599C.svg)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Standard](https://img.shields.io/badge/std-C++17-blue.svg)](https://en.wikipedia.org/wiki/C%2B%2B#Standardization)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 # Health Management System (HMS) 🏥
 
 A robust, console-based Health Management System built using **C++**. This application simulates core hospital operations, including patient registration, doctor management, appointment scheduling, and automated billing. It utilizes Object-Oriented Programming (OOP) principles and file handling for data persistence.
